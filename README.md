@@ -2,14 +2,14 @@
 # 💫 Hi 👋, I'm Suraj Sharan 
 **A passionate Business Analyst || Data Analyst **
 
-Email Me 👉 ✉️ **sharansuraj98@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sharansuraj68@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Business Analytics & Data Visualization Projects
 - 🌱 **I’m currently learning:** Advanced SQL, Power BI, Business Intelligence, and Business AI
 - 👯 **I’m looking to collaborate on:** Data Analytics & Business Intelligence Projects
 - 🤔 **I’m looking for help with:**Real-world Business Case Studies & AI-driven Analytics Projects
 - 💬 **Ask me about:** Business Analysis, Data Analytics, Power BI, Excel, SQL, Project Management and BRD 
-- 📫 **How to reach me:** sharansuraj98@gmail.com
+- 📫 **How to reach me:** sharansuraj68@gmail.com
 - 😄 **Pronouns:** Suraj / He-Him
 - ⚡ **Fun fact:**Passionate about transforming data into meaningful insights that drive smarter business decisions and measurable growth 📈
 
@@ -60,7 +60,7 @@ Email Me 👉 ✉️ **sharansuraj98@gmail.com** For Collaboration/Project or An
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contactsurajsharan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SurajShara7281) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharansuraj98@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharansuraj68@gmail.com)
 
 <h2 align="center"></h2>  <div align="center">  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900" alt="Business Workflow Animation"/>  <br><br>  <img src="https://img.shields.io/badge/Data-Collection-blue?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Requirements-Gathering-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Process-Analysis-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stakeholder-Management-critical?style=for-the-badge" /> <img src="https://img.shields.io/badge/Business-Intelligence-informational?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Data-Visualization-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-Reporting-orange?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Strategic-Decisions-purple?style=for-the-badge" />  </div>  ---  <h3 align="center"> Transforming Complex Business Processes into Data-Driven Solutions 🚀 </h3>  <p align="center"> Analyzing workflows, optimizing processes, and delivering actionable insights through Business Analysis, Data Analytics, and Business Intelligence. </p>
 ## 💻 Tech Stack
